@@ -1,0 +1,19 @@
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+/home/zeus/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160820-5632-y763zc.rb extconf.rb
+creating Makefile
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" clean
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR="
+compiling crypt_blowfish.c
+compiling bcrypt_ext.c
+compiling wrapper.c
+compiling crypt.c
+compiling crypt_gensalt.c
+linking shared-object bcrypt_ext.so
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/bcrypt-3.1.11/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bcrypt_ext.so ./.gem.20160820-5632-19nob75

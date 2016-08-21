@@ -1,0 +1,19 @@
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.0/ext/byebug
+/home/zeus/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160820-5632-l4h2vq.rb extconf.rb
+creating Makefile
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling threads.c
+compiling breakpoint.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20160820-5632-194lm5k/byebug

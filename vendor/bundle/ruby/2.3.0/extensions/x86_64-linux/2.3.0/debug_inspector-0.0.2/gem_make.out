@@ -1,0 +1,15 @@
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+/home/zeus/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160820-5632-jo0l3z.rb extconf.rb
+creating Makefile
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/zeus/ruby_workspace/sample_app/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug_inspector.so ./.gem.20160820-5632-mr523n
